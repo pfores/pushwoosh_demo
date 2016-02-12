@@ -1,0 +1,21 @@
+{
+  "name": "pushwoosh_demo",
+  "description": "A Vue.js project",
+  "main": "",
+  "authors": [
+    "pfores <paufores@iesebre.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/pfores/pushwoosh_demo",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "AdminLTE": "admin-lte#~2.3.2"
+  }
+}
